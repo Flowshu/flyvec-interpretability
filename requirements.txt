@@ -1,0 +1,8 @@
+flyvec
+numpy
+scipy
+matplotlib
+tqdm
+gensim
+torch
+transformers
