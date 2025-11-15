@@ -1,6 +1,6 @@
 # Comparing Interpretability of Biologically Inspired and Traditional Word Embeddings
 
-This repository contains the code for the paper "Comparing Interpretability of Biologically Inspired and Traditional Word Embeddings".  
+This repository contains the code for the [paper](./paper.pdf) "Comparing Interpretability of Biologically Inspired and Traditional Word Embeddings".  
 We worked on this project during the seminar of the Bio-inspired Artificial Intelligence (BAI) course at the University of Hamburg in the winter semester 2021/2022.  
 The main research questions in this seminar project was about the interpretability of the [FlyVec](https://github.com/bhoov/flyvec) word embeddings by Liang et al. [1].  
 We evaluated the interpretability of FlyVec [1] on the following two metrics and compared it with traditional word embeddings (like word2vec [2], GloVe [3], and BERT [4]).
